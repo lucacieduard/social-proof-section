@@ -112,7 +112,7 @@ body{
         grid-column: 1;
         grid-row:1;
         width:80%;
-        justify-content: flex-start;
+        justify-content: center;
     }
 
     .rating-container{
@@ -131,6 +131,7 @@ body{
     .rating-container{
         grid-row:1;
         grid-column: 2;
+        justify-content: center;
     }
 
     .review{
